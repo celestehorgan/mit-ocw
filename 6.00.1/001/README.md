@@ -43,3 +43,21 @@ In PyCharm, `>>>` indicates command-line input, while output is unmarked.
 ## Python Resources
 * [Python 3 Docs](https://docs.python.org/3/library/index.html)
 * http://www.diveintopython3.net/
+
+
+
+# Lecture Notes
+
+* What does thinking computationally mean?
+  * When given a new challenge, how can I describe the stages of a problem to a computer to get it to solve the problem for me?
+* Data structures
+* Finding information via iteration and recursion
+* Abstraction
+* Organize and modularize code.
+* Standard classes of algorithms
+  * Different algorithms have different costs: expense of solving a problem.
+
+* What does a computer do?
+  * Fundamentally: it performs calculations
+  * It remembers results of calculations
+  * It knows about calculations built into a programming language or defined by a programmer.
