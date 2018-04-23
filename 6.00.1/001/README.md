@@ -38,3 +38,8 @@ In PyCharm, `>>>` indicates command-line input, while output is unmarked.
 * Python does not respect BEDMAS inherently: calculting `6+4*10` correctly requires `(6+4)*10`.
 * A simple file with just `print("Hello world")` is runnable in python as-is. No containing runner method is required.
 * Re: importing `numpy` and `matplotlib` – https://www.jetbrains.com/help/pycharm/installing-uninstalling-and-upgrading-packages.html
+
+
+## Python Resources
+* [Python 3 Docs](https://docs.python.org/3/library/index.html)
+* http://www.diveintopython3.net/
